@@ -1,9 +1,3 @@
-# File: Zeller.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 9/18/2023
 # Description of Program: Calculates day of the week based on user input of year, month, and day of the month
 
 def main():
